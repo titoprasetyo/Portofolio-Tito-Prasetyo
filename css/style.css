@@ -10,7 +10,7 @@
 body {
   width: 100%;
   height: 100vh;
-  background-image: url("../img/bonsai.jpg");
+  background-image: url("../img/tambang.jpg");
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -30,7 +30,6 @@ nav {
   align-items: center;
 }
 
-/* Subscrbe YouTube Tamzidan Mahdiyin */
 
 .logo {
   color: white;
